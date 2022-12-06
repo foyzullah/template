@@ -1,0 +1,147 @@
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.hero-area {
+    background-color: #414640;
+    color: #fff;
+    padding: 50px 72px 170px 72px;
+    border-radius: 5px;
+}
+
+.hero-area-top{
+    display: flex;
+    align-items: center;
+}
+
+.hero-text-left {
+    max-width: 70%;
+    font-size: 20px;
+}
+
+.hero-text-right {
+    max-width: 30%;
+    font-size: 13px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F3F4EE;
+    max-width: 70%;
+    margin: 0px auto;
+    margin-top: -42px;
+    position: absolute;
+    margin-left: 13%;
+}
+
+.logo img {
+    margin-left: 20px;
+    padding: 10px;
+}
+
+a.primary-btn {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    display: inline-block;
+    background-color: #C06014;
+    text-transform: capitalize;
+    padding: 10px 25px;
+    border-radius: 2px;
+    margin-top: 12px;
+}
+
+.offer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+.offer p {
+    font-size: 15px;
+    text-transform: capitalize;
+}
+.hero-bg img {
+    padding: 0;
+    width: 88%;
+    margin: 0 auto;
+}
+
+.hero-bg {
+    margin: 0 auto;
+    display: flex;
+    margin-top: -160px;
+}
+
+
+.products-area {
+    margin-top: 100px;
+}
+
+.products {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.single-products {
+    max-width: 25%;
+    text-align: center;
+}
+
+.single-products p {
+    font-size: 15px;
+    color: #B1B2B2;
+}
+
+.single-products h3 {
+    font-size: 20px;
+}
+
+a.primary-link {
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 600;
+    color: #C6702D;
+}
+
+.products-area h2 {
+    font-size: 35px;
+}
+
+.footer {
+    display: flex;
+    background-color: #414640;
+    color: #F3F4EE;
+}
+
+.footer-left {
+    padding: 50px;
+}
+
+.footer-left p {
+    font-size: 14px;
+}
+
+.gray-color {
+    background-color: #F3F4EE;
+}
+
+.gray-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.gray-top img {
+    width: 45%;
+    margin-right: 25px;
+}
+
+.gray-color .offer {
+    padding: 30px;
+}
