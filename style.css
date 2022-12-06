@@ -145,3 +145,27 @@ a.primary-link {
 .gray-color .offer {
     padding: 30px;
 }
+
+.feature-product {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.left {
+    color: #40453F;
+    font-size: 14px;
+}
+
+a.secendary-btn {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15px;
+    border: 1px solid;
+    padding: 10px 20px;
+    margin-top: 10px;
+    display: inline-block;
+    border-radius: 2px;
+    color: #DCA780;
+}
